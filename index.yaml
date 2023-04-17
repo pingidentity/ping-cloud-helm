@@ -1,5 +1,34 @@
 apiVersion: v1
 entries:
+  minecraft:
+  - annotations:
+      artifacthub.io/links: |
+        - name: Image source
+          url: https://github.com/itzg/docker-minecraft-server
+        - name: Image DockerHub
+          url: https://hub.docker.com/r/itzg/minecraft-server
+    apiVersion: v1
+    appVersion: SeeValues
+    created: "2023-04-17T11:14:46.703668-06:00"
+    description: Minecraft server
+    digest: 41109adf161724a45da3d308a29cd2e503402adda630a7c57036099228b50dac
+    home: https://minecraft.net/
+    keywords:
+    - game
+    - server
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft
+    sources:
+    - https://github.com/itzg/minecraft-server-charts
+    urls:
+    - https://github.com/pingidentity/ping-cloud-helm/releases/download/minecraft-4.7.2/minecraft-4.7.2.tgz
+    version: 4.7.2
   p1as-beluga-tools:
   - apiVersion: v2
     appVersion: 1.18.0.0
@@ -11,4 +40,4 @@ entries:
     urls:
     - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-99.9.9/p1as-beluga-tools-99.9.9.tgz
     version: 99.9.9
-generated: "2023-04-17T09:46:40.918407-06:00"
+generated: "2023-04-17T11:14:46.703675-06:00"
