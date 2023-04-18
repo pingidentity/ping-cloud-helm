@@ -70,4 +70,14 @@ entries:
     urls:
     - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-9.98.6/p1as-beluga-tools-9.98.6.tgz
     version: 9.98.6
-generated: "2023-04-18T17:02:54.937078931Z"
+  - apiVersion: v2
+    appVersion: 1.18.0.0
+    created: "2023-04-18T17:58:18.590926474Z"
+    description: A Helm chart for p1as metadata and healthcheck services
+    digest: c87cd8dfb78aae934ad29ff8793c2db5b561d597d1380bbe2bbe0085fe67a4ac
+    name: p1as-beluga-tools
+    type: application
+    urls:
+    - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-9.98.5/p1as-beluga-tools-9.98.5.tgz
+    version: 9.98.5
+generated: "2023-04-18T17:58:18.590972414Z"
