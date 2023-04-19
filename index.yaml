@@ -82,9 +82,9 @@ entries:
     version: 88.0.0-release-branch
   - apiVersion: v2
     appVersion: 1.18.0.0
-    created: "2023-04-19T15:39:49.320512988Z"
+    created: "2023-04-19T15:54:19.474598106Z"
     description: A Helm chart for p1as metadata and healthcheck services
-    digest: 49b6c68495da666a0ce3a3476027bba4b1f01e39ae4b1671179e837bd23a2f3e
+    digest: c0dc172966a1a88e15367c287cb6bc489643b07fee740d07a55335553605389f
     name: p1as-beluga-tools
     type: application
     urls:
@@ -112,9 +112,9 @@ entries:
     version: 18.0.0-release-branch
   - apiVersion: v2
     appVersion: 1.18.0.0
-    created: "2023-04-19T15:54:19.474598106Z"
+    created: "2023-04-19T15:39:49.320512988Z"
     description: A Helm chart for p1as metadata and healthcheck services
-    digest: c0dc172966a1a88e15367c287cb6bc489643b07fee740d07a55335553605389f
+    digest: 49b6c68495da666a0ce3a3476027bba4b1f01e39ae4b1671179e837bd23a2f3e
     name: p1as-beluga-tools
     type: application
     urls:
@@ -162,6 +162,16 @@ entries:
     version: 18.0.0-release-branch
   - apiVersion: v2
     appVersion: 1.18.0.0
+    created: "2023-04-19T16:42:52.755082451Z"
+    description: A Helm chart for p1as metadata and healthcheck services
+    digest: b0faf475b5b3cce47155502d9cf7ceb1bc46b72013cef82de8c3a9def092562a
+    name: p1as-beluga-tools
+    type: application
+    urls:
+    - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-18.0.0-release-branch/p1as-beluga-tools-18.0.0-release-branch.tgz
+    version: 18.0.0-release-branch
+  - apiVersion: v2
+    appVersion: 1.18.0.0
     created: "2023-04-18T17:02:54.937067559Z"
     description: A Helm chart for p1as metadata and healthcheck services
     digest: 582cb2fbc2284bc65500ba9a1a63e4c06a070e305fdbea76ddc48374f27874fc
@@ -180,4 +190,4 @@ entries:
     urls:
     - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-9.98.5/p1as-beluga-tools-9.98.5.tgz
     version: 9.98.5
-generated: "2023-04-19T16:29:49.585932429Z"
+generated: "2023-04-19T16:42:52.755274773Z"
