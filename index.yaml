@@ -82,9 +82,9 @@ entries:
     version: 88.0.0-release-branch
   - apiVersion: v2
     appVersion: 1.18.0.0
-    created: "2023-04-18T18:15:18.54091216Z"
+    created: "2023-04-19T15:39:49.320512988Z"
     description: A Helm chart for p1as metadata and healthcheck services
-    digest: 56e7e17986a0978bf59a5504971ea162cd449d04985416ade11873ba22af73f3
+    digest: 49b6c68495da666a0ce3a3476027bba4b1f01e39ae4b1671179e837bd23a2f3e
     name: p1as-beluga-tools
     type: application
     urls:
@@ -92,9 +92,9 @@ entries:
     version: 18.0.0-release-branch
   - apiVersion: v2
     appVersion: 1.18.0.0
-    created: "2023-04-19T15:39:49.320512988Z"
+    created: "2023-04-18T18:15:18.54091216Z"
     description: A Helm chart for p1as metadata and healthcheck services
-    digest: 49b6c68495da666a0ce3a3476027bba4b1f01e39ae4b1671179e837bd23a2f3e
+    digest: 56e7e17986a0978bf59a5504971ea162cd449d04985416ade11873ba22af73f3
     name: p1as-beluga-tools
     type: application
     urls:
@@ -132,6 +132,16 @@ entries:
     version: 18.0.0-release-branch
   - apiVersion: v2
     appVersion: 1.18.0.0
+    created: "2023-04-19T16:16:48.878561187Z"
+    description: A Helm chart for p1as metadata and healthcheck services
+    digest: 253190d8d362610ef259d70f7bd212d36509dce47a61c328c25fc45a16db8cff
+    name: p1as-beluga-tools
+    type: application
+    urls:
+    - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-18.0.0-release-branch/p1as-beluga-tools-18.0.0-release-branch.tgz
+    version: 18.0.0-release-branch
+  - apiVersion: v2
+    appVersion: 1.18.0.0
     created: "2023-04-18T17:02:54.937067559Z"
     description: A Helm chart for p1as metadata and healthcheck services
     digest: 582cb2fbc2284bc65500ba9a1a63e4c06a070e305fdbea76ddc48374f27874fc
@@ -150,4 +160,4 @@ entries:
     urls:
     - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-9.98.5/p1as-beluga-tools-9.98.5.tgz
     version: 9.98.5
-generated: "2023-04-19T15:59:19.255747144Z"
+generated: "2023-04-19T16:16:48.878661132Z"
