@@ -29,4 +29,15 @@ entries:
     urls:
     - https://github.com/pingidentity/ping-cloud-helm/releases/download/minecraft-4.7.2/minecraft-4.7.2.tgz
     version: 4.7.2
-generated: "2023-04-19T16:59:49.510546697Z"
+  p1as-beluga-tools:
+  - apiVersion: v2
+    appVersion: 1.18.0.0
+    created: "2023-04-19T22:56:48.748397761Z"
+    description: A Helm chart for p1as metadata and healthcheck services
+    digest: e4ed0942a8015ad55c52a3ab99fad19439834b32edc184b024aa628ee9cfd141
+    name: p1as-beluga-tools
+    type: application
+    urls:
+    - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-18.0.0-release-branch/p1as-beluga-tools-18.0.0-release-branch.tgz
+    version: 18.0.0-release-branch
+generated: "2023-04-19T22:56:48.748410229Z"
