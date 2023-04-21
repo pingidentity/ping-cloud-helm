@@ -62,6 +62,16 @@ entries:
     version: 99.0.0-release-branch-latest
   - apiVersion: v2
     appVersion: 1.18.0.0
+    created: "2023-04-21T17:31:50.205442258Z"
+    description: A Helm chart for p1as metadata and healthcheck services
+    digest: 63fa227742e4a3a0592c83c2cb70d5eb52795c8f4341cc8b0ff554f6ded48fc1
+    name: p1as-beluga-tools
+    type: application
+    urls:
+    - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-99.0.0-release-branch-latest/p1as-beluga-tools-99.0.0-release-branch-latest.tgz
+    version: 99.0.0-release-branch-latest
+  - apiVersion: v2
+    appVersion: 1.18.0.0
     created: "2023-04-19T22:56:48.748397761Z"
     description: A Helm chart for p1as metadata and healthcheck services
     digest: e4ed0942a8015ad55c52a3ab99fad19439834b32edc184b024aa628ee9cfd141
@@ -70,4 +80,4 @@ entries:
     urls:
     - https://github.com/pingidentity/ping-cloud-helm/releases/download/p1as-beluga-tools-18.0.0-release-branch/p1as-beluga-tools-18.0.0-release-branch.tgz
     version: 18.0.0-release-branch
-generated: "2023-04-21T17:29:50.239791693Z"
+generated: "2023-04-21T17:31:50.20547045Z"
